@@ -9,4 +9,10 @@ void main(List<String> args) {
   things.add('keyboard');
   things.add('Mouse');
   print('added thuings are ${things}');
+
+  List<int> numbers = [];
+  numbers.add(1);
+  numbers.add(2);
+  numbers.add(3);
+  print(numbers);
 }
